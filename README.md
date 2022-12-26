@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yashpatil0823
 - 👀 I’m interested in coding and internships.
-- 🌱 I’m currently learning java and data structure.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data structures and MERN Stack development.
 - 📫 How to reach me you can follow me in instagram ,My id is: yashpatil0823
 
 <!---
